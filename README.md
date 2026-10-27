@@ -30,6 +30,8 @@ python -m unittest discover -s tests -v
 
 The repository is ready for Streamlit Community Cloud. Select `app.py` as the main file and use Python 3.12 or newer.
 
+One-click deployment: https://share.streamlit.io/deploy?repository=ShresthSrivastav/music-recommendation-streamlit&branch=main&mainModule=app.py
+
 ## Source
 
 The original case-study report is preserved in `docs/` for traceability.
