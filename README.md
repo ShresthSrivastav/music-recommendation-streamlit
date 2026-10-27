@@ -15,9 +15,15 @@ The example values are hypothetical. The app does not use Spotify's private algo
 
 ## Run locally
 
+On Windows, double-click `run_local.bat`. It starts the app and opens it at:
+
+http://localhost:8501
+
+Or run it from this folder:
+
 ```bash
 python -m pip install -r requirements.txt
-streamlit run app.py
+python -m streamlit run app.py --server.port 8501
 ```
 
 ## Test
