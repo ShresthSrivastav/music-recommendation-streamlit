@@ -1,17 +1,19 @@
 # Hybrid Music Recommendation Systems
 
-An interactive Streamlit case-study prototype based on the supplied report. It demonstrates content-based, collaborative, and hybrid filtering using a small, transparent catalogue of illustrative scores.
+An interactive Streamlit case-study project based on the supplied report. Users choose a listener from the built-in dataset; no personal data upload is required.
 
 ## What the app demonstrates
 
-- Content-based similarity from track characteristics
-- Collaborative scores from similar-listener behaviour
-- Hybrid score fusion: `α × content + (1 − α) × collaborative`
-- Ranking changes as the content weight changes
-- Genre filtering and recommendation explanations
-- Precision@K and Recall@K definitions with offline-evaluation caveats
+- Built-in catalogue, listener, and interaction datasets in `data/`
+- Content-based cosine similarity from numeric track features
+- Collaborative scores from Jaccard-similar listeners
+- Hybrid score fusion controlled by the content weight alpha
+- Genre and mood filters with explanations for every recommendation
+- Like, skip, hide, and save-to-playlist feedback controls
+- Precision@K, Recall@K, NDCG@K, coverage, and diversity evaluation
+- Dataset analytics and the original report example
 
-The example values are hypothetical. The app does not use Spotify's private algorithm, scrape Spotify, or require API credentials.
+The dataset is synthetic for demonstration. The app does not use Spotify's private algorithm, scrape Spotify, or require API credentials.
 
 ## Run locally
 

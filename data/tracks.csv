@@ -1,0 +1,21 @@
+track_id,title,artist,genre,mood,energy,valence,acousticness,danceability,tempo
+T01,Acoustic Morning,The Daybreaks,Acoustic pop,calm,0.25,0.60,0.88,0.48,92
+T02,Mellow Indie Nights,Northbound,Indie folk,calm,0.35,0.55,0.75,0.52,90
+T03,Folk Roads,Cedar House,Acoustic folk,uplifting,0.42,0.68,0.78,0.58,100
+T04,Warm Vinyl,June Harbor,Indie pop,calm,0.45,0.58,0.50,0.62,102
+T05,Open Highway,Mira Lane,Folk,uplifting,0.62,0.76,0.55,0.70,112
+T06,Neon Steps,Signal Bloom,Electronic,energetic,0.88,0.72,0.08,0.82,124
+T07,Afterglow Drive,Static Summer,Synth pop,energetic,0.74,0.66,0.12,0.78,118
+T08,Paper Lanterns,Cedar House,Acoustic folk,calm,0.28,0.45,0.92,0.44,88
+T09,City Lights,The Daybreaks,Pop,energetic,0.72,0.70,0.22,0.80,120
+T10,Quiet Room,Northbound,Indie folk,calm,0.20,0.30,0.90,0.36,78
+T11,Ocean Air,Mira Lane,Chill pop,calm,0.38,0.63,0.60,0.68,98
+T12,Pulse Theory,Pulse Theory,Electronic dance,energetic,0.92,0.80,0.05,0.86,128
+T13,Blue Hour,June Harbor,Indie pop,reflective,0.50,0.40,0.45,0.58,105
+T14,Sunlit Frames,The Daybreaks,Pop,uplifting,0.68,0.82,0.30,0.76,115
+T15,Rainy Pages,Cedar House,Acoustic,reflective,0.18,0.25,0.95,0.32,74
+T16,Weekend Echoes,Static Summer,Synth pop,uplifting,0.78,0.78,0.15,0.84,122
+T17,Lantern Festival,Mira Lane,Folk pop,uplifting,0.58,0.80,0.42,0.73,110
+T18,Slow Bloom,Northbound,Indie,reflective,0.30,0.35,0.70,0.40,86
+T19,Circuit Heart,Signal Bloom,Electronic,energetic,0.95,0.61,0.03,0.90,130
+T20,Golden Fields,Cedar House,Folk,calm,0.40,0.72,0.76,0.56,96
